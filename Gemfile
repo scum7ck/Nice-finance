@@ -7,9 +7,13 @@ end
 
 ruby '2.4.0'
 
+# Custom
+gem 'stock_quote'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 gem 'devise'
+gem 'jquery-rails'
+gem "font-awesome-rails"
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.2'
 # Use sqlite3 as the database for Active Record
